@@ -621,7 +621,7 @@ p {
 }
 #fh5co-services .service .icon i {
   font-size: 40px;
-  color: #57D131;
+  color: rgb(109, 108, 108);
 }
 #fh5co-services .service h3 {
   text-align: center;
@@ -652,7 +652,7 @@ p {
   left: 0;
   top: .15em;
   font-size: 23px;
-  color: #57D131;
+  color: rgb(109, 108, 108);
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
